@@ -6,4 +6,4 @@ DB_HOST = '<host_name>'
 DB_USER = '<database_username>'
 
 
-ADMINS = [1230394567,]
+ADMINS = ["<admin_token>"]
